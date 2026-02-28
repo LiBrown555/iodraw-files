@@ -1051,13 +1051,11 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-263" value="能力名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="783" y="1508" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-264">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="683.294117647059" y="1688.7647058823532" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-264" value="能力描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1662" width="85" height="37" as="geometry" />
+          <mxGeometry x="629" y="1690" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-266" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="823" y="1623" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
