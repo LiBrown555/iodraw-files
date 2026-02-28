@@ -376,7 +376,7 @@
           <mxGeometry x="1310" y="397" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-103" value="检测项数据类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="397" width="85" height="37" as="geometry" />
+          <mxGeometry x="1180.5" y="394" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-104" value="检测项单位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1312" y="612" width="85" height="37" as="geometry" />
@@ -386,6 +386,12 @@
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-107" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="540" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-108" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="956" y="454" as="sourcePoint" />
+            <mxPoint x="1006" y="404" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
