@@ -1116,13 +1116,13 @@
           <mxGeometry x="964" y="1539" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-279" value="设备能力ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="1596" width="85" height="37" as="geometry" />
+          <mxGeometry x="1096" y="1539" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-280" value="算法ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1011" y="1712" width="85" height="37" as="geometry" />
+          <mxGeometry x="973" y="1712" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-281" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1204" y="1677" width="85" height="37" as="geometry" />
+          <mxGeometry x="1101" y="1712" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
