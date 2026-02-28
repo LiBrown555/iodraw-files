@@ -1993,7 +1993,7 @@
             <mxPoint x="491" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-478" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-477">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-478" value="绑定" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-477">
           <mxGeometry x="361" y="108" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
