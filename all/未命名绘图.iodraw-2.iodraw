@@ -1376,7 +1376,10 @@
           <mxGeometry x="957" y="1892.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-337" value="点位类型ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="1798" width="85" height="37" as="geometry" />
+          <mxGeometry x="881" y="1814" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-338" value="点位纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="1822" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
