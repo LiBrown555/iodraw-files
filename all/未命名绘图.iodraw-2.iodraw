@@ -1081,7 +1081,7 @@
             <mxPoint x="668" y="1608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-271" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-271" value="绑定" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="483" y="1608" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
