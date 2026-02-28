@@ -696,8 +696,11 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-184" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-183">
           <mxGeometry x="-21" y="96" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-185" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-183">
-          <mxGeometry x="122" y="119" width="36" height="10" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-186" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="854" as="sourcePoint" />
+            <mxPoint x="488" y="804" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
