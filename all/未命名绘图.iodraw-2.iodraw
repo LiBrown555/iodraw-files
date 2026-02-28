@@ -1382,7 +1382,10 @@
           <mxGeometry x="984" y="1814" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-339" value="类型描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1244" y="1848" width="85" height="37" as="geometry" />
+          <mxGeometry x="1085" y="1814" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-340" value="点位纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="1923" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
