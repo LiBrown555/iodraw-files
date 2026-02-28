@@ -1113,16 +1113,22 @@
           <mxGeometry x="1033" y="1615" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-278" value="映射ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="964" y="1539" width="85" height="37" as="geometry" />
+          <mxGeometry x="979" y="1539" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-279" value="设备能力ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1096" y="1539" width="85" height="37" as="geometry" />
+          <mxGeometry x="1113" y="1539" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-280" value="算法ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="975" y="1694" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-281" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1105" y="1694" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-282" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1169" y="1648" as="sourcePoint" />
+            <mxPoint x="1219" y="1598" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
