@@ -367,10 +367,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-114" value="归属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="743" y="488" width="120" height="60" as="geometry" />
+          <mxGeometry x="742" y="493" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-115" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1008" y="392.5" width="224" height="255" as="geometry" />
+          <mxGeometry x="1081" y="390.5" width="224" height="255" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-100" value="检测项" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-115">
           <mxGeometry y="116" width="100" height="40" as="geometry" />
