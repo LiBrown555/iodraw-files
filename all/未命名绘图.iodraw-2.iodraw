@@ -2181,8 +2181,8 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-553" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1914" y="2602" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-554" value="操作者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1847" y="2719" width="85" height="37" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-554" value="删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2023" y="2381" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
