@@ -1696,10 +1696,10 @@
           <mxGeometry x="41" y="2415" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-410" value="操作用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-243" y="2569" width="85" height="37" as="geometry" />
+          <mxGeometry x="-268" y="2472" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-411" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-101" y="2624" width="85" height="37" as="geometry" />
+          <mxGeometry x="-268" y="2529" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-412" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91" y="2631" width="85" height="37" as="geometry" />
