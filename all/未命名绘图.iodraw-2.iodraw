@@ -1653,7 +1653,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-400" value="关联" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="819" y="2183" width="115" height="50" as="geometry" />
+          <mxGeometry x="825" y="2198" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-401" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="873" y="2126" as="sourcePoint" />
+            <mxPoint x="923" y="2076" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
