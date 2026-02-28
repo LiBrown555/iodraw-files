@@ -815,7 +815,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-212" value="设备类型" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-212" value="设备类型属性" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="479" y="1288" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
