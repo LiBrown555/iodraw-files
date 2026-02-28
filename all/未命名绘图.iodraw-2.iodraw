@@ -1467,7 +1467,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-358" value="点位属性元数据" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="289" y="2218" width="100" height="40" as="geometry" />
+          <mxGeometry x="-52" y="2195" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
