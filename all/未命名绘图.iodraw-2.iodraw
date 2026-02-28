@@ -1749,6 +1749,12 @@
             <mxPoint x="114" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-441" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gkJRY3tL-PLO7SLwbfga-420">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="282" y="116" as="sourcePoint" />
+            <mxPoint x="332" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-421" value="任务" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="349" y="2499" width="100" height="40" as="geometry" />
         </mxCell>
