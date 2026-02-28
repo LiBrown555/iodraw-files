@@ -645,8 +645,11 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-170" value="设备ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166" y="786" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-171" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-171" value="设备类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="863" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-172" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="948" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
