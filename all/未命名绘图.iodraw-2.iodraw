@@ -2031,7 +2031,10 @@
           <mxGeometry x="241" y="2692" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-515" value="点位ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="2779" width="85" height="37" as="geometry" />
+          <mxGeometry x="347" y="2692" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-516" value="计划类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="2783" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
