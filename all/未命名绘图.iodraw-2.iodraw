@@ -1055,7 +1055,7 @@
           <mxGeometry x="629" y="1690" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-266" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="759.5" y="1694" width="85" height="37" as="geometry" />
+          <mxGeometry x="777" y="1694" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
