@@ -1900,6 +1900,12 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-458" value="周期配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191" y="2733" width="85" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-459" value="周期开始时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="183" y="2815" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-460" value="任务状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="2790" width="85" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
