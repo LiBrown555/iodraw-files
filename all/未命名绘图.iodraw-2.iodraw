@@ -1109,7 +1109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-277" value="设备能力" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-277" value="设备对应算法能力" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1029" y="1618" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
