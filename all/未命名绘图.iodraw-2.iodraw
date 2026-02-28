@@ -511,6 +511,9 @@
             <mxPoint x="436" y="41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gkJRY3tL-PLO7SLwbfga-181" source="gkJRY3tL-PLO7SLwbfga-168" target="gkJRY3tL-PLO7SLwbfga-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-124" value="重点设备" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="768" width="85" height="37" as="geometry" />
         </mxCell>
