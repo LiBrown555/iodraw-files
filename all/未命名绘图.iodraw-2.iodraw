@@ -693,6 +693,9 @@
             <mxPoint x="524" y="44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-184" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="403" y="799" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
