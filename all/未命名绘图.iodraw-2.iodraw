@@ -1479,7 +1479,10 @@
           <mxGeometry x="38" y="2111" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-363" value="显示名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-185" y="2192" width="85" height="37" as="geometry" />
+          <mxGeometry x="-268" y="2111" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-364" value="数据类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-197" y="2256" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
