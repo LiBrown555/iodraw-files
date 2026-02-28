@@ -566,7 +566,10 @@
           <mxGeometry x="935" y="775" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-149" value="关联属性ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1018" y="870" width="85" height="37" as="geometry" />
+          <mxGeometry x="824" y="960" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-150" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="960" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
