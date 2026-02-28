@@ -451,8 +451,11 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-145" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="277" y="760" width="387" height="237" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-167" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="277" y="760" width="842" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-145" value="" style="group" vertex="1" connectable="0" parent="gkJRY3tL-PLO7SLwbfga-167">
+          <mxGeometry width="387" height="237" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-120" value="设备" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-145">
           <mxGeometry x="151" y="111" width="100" height="40" as="geometry" />
@@ -556,13 +559,13 @@
             <mxPoint x="386" y="44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-152" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="683" y="859" width="120" height="60" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-152" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-167">
+          <mxGeometry x="406" y="99" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-154" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-120" target="gkJRY3tL-PLO7SLwbfga-152">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-154" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gkJRY3tL-PLO7SLwbfga-167" source="gkJRY3tL-PLO7SLwbfga-120" target="gkJRY3tL-PLO7SLwbfga-152">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="881" y="854" as="sourcePoint" />
-            <mxPoint x="931" y="804" as="targetPoint" />
+            <mxPoint x="604" y="94" as="sourcePoint" />
+            <mxPoint x="654" y="44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-158" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkJRY3tL-PLO7SLwbfga-154">
@@ -570,8 +573,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-166" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="824" y="775" width="295" height="222" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-166" value="" style="group" vertex="1" connectable="0" parent="gkJRY3tL-PLO7SLwbfga-167">
+          <mxGeometry x="547" y="15" width="295" height="222" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-146" value="设备属性" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-166">
           <mxGeometry x="79" y="94" width="100" height="40" as="geometry" />
@@ -621,13 +624,11 @@
             <mxPoint x="107" y="29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-153" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gkJRY3tL-PLO7SLwbfga-166" source="gkJRY3tL-PLO7SLwbfga-152">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-153" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gkJRY3tL-PLO7SLwbfga-167" source="gkJRY3tL-PLO7SLwbfga-152" target="gkJRY3tL-PLO7SLwbfga-146">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11" y="144" as="sourcePoint" />
-            <mxPoint x="41" y="116" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="56" y="144" />
-            </Array>
+            <mxPoint x="558" y="159" as="sourcePoint" />
+            <mxPoint x="588" y="131" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-159" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkJRY3tL-PLO7SLwbfga-153">
