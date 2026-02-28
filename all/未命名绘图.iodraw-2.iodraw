@@ -1254,7 +1254,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-311" value="地图X坐标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="1975" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-312" value="地图名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-312" value="地图Y坐标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="1977" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
