@@ -47,7 +47,7 @@
           <mxGeometry x="210" y="39" width="64" height="32" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-11" value="所属算法ID" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="309" y="278" width="89" height="47" as="geometry" />
+          <mxGeometry x="303" y="287" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-12" value="告警规则ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="30" width="89" height="47" as="geometry" />
