@@ -1093,9 +1093,9 @@
             <mxPoint x="642" y="1661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-274" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-274" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gkJRY3tL-PLO7SLwbfga-271">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="535" y="1814" as="sourcePoint" />
+            <mxPoint x="446" y="1652" as="sourcePoint" />
             <mxPoint x="585" y="1764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
