@@ -1246,7 +1246,10 @@
           <mxGeometry x="483" y="1814" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-309" value="点位经度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="574" y="1905" width="85" height="37" as="geometry" />
+          <mxGeometry x="577" y="1814" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-310" value="点位纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597" y="1934" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
