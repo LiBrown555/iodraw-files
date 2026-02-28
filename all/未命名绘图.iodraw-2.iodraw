@@ -1553,10 +1553,16 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-378" value="包含" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="66" y="2195.5" width="117" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-379" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-379" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-358" target="gkJRY3tL-PLO7SLwbfga-378">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="43" y="2261" as="sourcePoint" />
             <mxPoint x="93" y="2211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-380" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-378">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="2197" as="sourcePoint" />
+            <mxPoint x="265" y="2147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
