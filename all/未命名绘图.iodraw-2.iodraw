@@ -2028,7 +2028,10 @@
           <mxGeometry x="135" y="2692" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-514" value="任务ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327" y="2738" width="85" height="37" as="geometry" />
+          <mxGeometry x="241" y="2692" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-515" value="点位ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="2779" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
