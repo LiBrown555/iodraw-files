@@ -2036,8 +2036,8 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-516" value="点位执行顺序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="453" y="2692" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-517" value="计划类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="2795" width="85" height="37" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-517" value="操作者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="2692" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
