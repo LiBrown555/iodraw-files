@@ -1994,7 +1994,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-478" value="绑定" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-477">
-          <mxGeometry x="354" y="102" width="120" height="60" as="geometry" />
+          <mxGeometry x="298" y="117" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
