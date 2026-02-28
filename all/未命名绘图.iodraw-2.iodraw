@@ -1388,7 +1388,10 @@
           <mxGeometry x="1186" y="1814" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-341" value="是否删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1227" y="2010" width="85" height="37" as="geometry" />
+          <mxGeometry x="1190" y="1971" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-343" value="点位纬度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1033" y="2011" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
