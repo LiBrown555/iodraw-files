@@ -1753,6 +1753,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="282" y="116" as="sourcePoint" />
             <mxPoint x="332" y="66" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-445" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gkJRY3tL-PLO7SLwbfga-441">
+          <mxGeometry x="0.92" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-421" value="任务" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
