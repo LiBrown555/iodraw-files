@@ -1885,6 +1885,9 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-453" value="计划ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="-295" y="2705" width="85" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-454" value="任务ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="-109" y="2699" width="85" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
