@@ -2154,8 +2154,8 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-544" value="关联任务点位ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1587" y="2381" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-545" value="操作者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1567" y="2614" width="85" height="37" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-545" value="执行设备ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1696" y="2381" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
