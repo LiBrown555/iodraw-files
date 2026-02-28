@@ -2161,7 +2161,10 @@
           <mxGeometry x="1805" y="2381" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-547" value="执行算法能力ID(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1756" y="2561" width="85" height="37" as="geometry" />
+          <mxGeometry x="1914" y="2381" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-548" value="操作者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="2624" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
