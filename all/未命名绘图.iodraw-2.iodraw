@@ -1785,10 +1785,16 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-432" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="639" y="2586" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-433" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-433" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-421" target="gkJRY3tL-PLO7SLwbfga-422">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="177" y="2541" as="sourcePoint" />
             <mxPoint x="227" y="2491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-434" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="gkJRY3tL-PLO7SLwbfga-423">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244" y="2548" as="sourcePoint" />
+            <mxPoint x="294" y="2498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
