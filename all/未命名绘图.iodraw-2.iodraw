@@ -478,7 +478,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-128" value="室内室外(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="960" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-131" value="设备归属位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-131" value="设备归属位置(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="960" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
