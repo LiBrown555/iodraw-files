@@ -1174,7 +1174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-304" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-186" y="1814" width="281" height="200" as="geometry" />
+          <mxGeometry x="-183" y="1808" width="281" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-291" value="地图" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-304">
           <mxGeometry x="128" y="89" width="100" height="40" as="geometry" />
@@ -1356,7 +1356,7 @@
             <mxPoint x="129" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-333" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-333" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-291" target="gkJRY3tL-PLO7SLwbfga-330">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="111" y="1994" as="sourcePoint" />
             <mxPoint x="161" y="1944" as="targetPoint" />
