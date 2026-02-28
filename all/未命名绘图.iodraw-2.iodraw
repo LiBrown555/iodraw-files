@@ -1042,7 +1042,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-261" value="设备类型能力" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-261" value="设备能力" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="652" y="1578" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
