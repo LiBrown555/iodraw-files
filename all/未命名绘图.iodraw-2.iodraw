@@ -113,7 +113,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-40" value="检测项ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623" y="56" width="84" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-41" value="告警值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-41" value="告警规则ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="229" width="84" height="34" as="geometry" />
         </mxCell>
       </root>
