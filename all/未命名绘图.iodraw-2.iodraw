@@ -2036,7 +2036,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-533" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="782.5" y="2381" width="519.5" height="258" as="geometry" />
+          <mxGeometry x="782.5" y="2381" width="632.5" height="258" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-483" value="任务点位" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-533">
           <mxGeometry x="206.5" y="116" width="100" height="40" as="geometry" />
@@ -2130,6 +2130,9 @@
             <mxPoint x="498.5" y="201" as="sourcePoint" />
             <mxPoint x="548.5" y="151" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-568" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-533">
+          <mxGeometry x="512.5" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-538" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-535" target="gkJRY3tL-PLO7SLwbfga-483">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2256,7 +2259,7 @@
             <mxPoint x="1936" y="2523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-567" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-567" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-553" target="gkJRY3tL-PLO7SLwbfga-540">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1956" y="2583" as="sourcePoint" />
             <mxPoint x="2006" y="2533" as="targetPoint" />
