@@ -466,14 +466,14 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-124" value="重点设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="814" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-125" value="父设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-125" value="父设备(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="868" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-126" value="设备序列号(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="914" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-127" value="设备编码(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="991" width="85" height="37" as="geometry" />
+          <mxGeometry x="277" y="960" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
