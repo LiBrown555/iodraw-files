@@ -23,7 +23,7 @@
           <mxGeometry x="981" y="33" width="84" height="34" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-45" value="所属点位ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="643" y="307" width="84" height="34" as="geometry" />
+          <mxGeometry x="1074" y="77" width="84" height="34" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-46" value="阈值类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="541" y="303" width="84" height="34" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="532" y="355" width="84" height="34" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-48" value="区间下限(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="643" y="359" width="84" height="34" as="geometry" />
+          <mxGeometry x="1076" y="126" width="84" height="34" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-51" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="30" width="363" height="292" as="geometry" />
