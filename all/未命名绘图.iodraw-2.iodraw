@@ -1493,6 +1493,9 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-367" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-46" y="2295" width="85" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-368" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="2283" width="85" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
