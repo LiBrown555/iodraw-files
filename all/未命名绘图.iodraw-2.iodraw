@@ -787,6 +787,9 @@
             <mxPoint x="253" y="-15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-207" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="241" y="1151" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
