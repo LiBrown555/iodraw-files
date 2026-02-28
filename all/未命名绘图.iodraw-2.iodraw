@@ -2166,7 +2166,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-548" value="资产ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1363" y="2602" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-549" value="操作者ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-549" value="检测项参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1594" y="2624" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
