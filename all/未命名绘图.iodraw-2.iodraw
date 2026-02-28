@@ -107,8 +107,8 @@
             <mxPoint x="435" y="84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="179" width="120" height="60" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-39" value="告警结果" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="558" y="140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
