@@ -1889,7 +1889,10 @@
           <mxGeometry x="-190" y="2705" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-455" value="关联任务ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="2719" width="85" height="37" as="geometry" />
+          <mxGeometry x="-85" y="2705" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-456" value="任务状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="2763" width="85" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
