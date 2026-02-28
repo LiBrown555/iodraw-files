@@ -475,8 +475,14 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-127" value="设备编码(0)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="960" width="85" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkJRY3tL-PLO7SLwbfga-128" target="gkJRY3tL-PLO7SLwbfga-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-128" value="算法名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="960" width="85" height="37" as="geometry" />
+          <mxGeometry x="378" y="960" width="85" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-129" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545.5" y="938.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
