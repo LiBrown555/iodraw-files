@@ -911,8 +911,14 @@
             <mxPoint x="226" y="66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-234" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="432" y="1238" width="120" height="60" as="geometry" />
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-234" value="定义" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gkJRY3tL-PLO7SLwbfga-233">
+          <mxGeometry x="-17.5" y="88.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-235" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467" y="1293" as="sourcePoint" />
+            <mxPoint x="517" y="1243" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
