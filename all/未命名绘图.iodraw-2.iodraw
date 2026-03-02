@@ -1908,7 +1908,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-455" value="关联任务ID" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-477" vertex="1">
           <mxGeometry x="210" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-456" value="计划类型" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-477" vertex="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-456" value="计划类型" style="whiteSpace=wrap;html=1;shape=doubleEllipse;perimeter=ellipsePerimeter;margin=3;" parent="gkJRY3tL-PLO7SLwbfga-477" vertex="1">
           <mxGeometry x="314" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-457" value="单次执行时间" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-477" vertex="1">
