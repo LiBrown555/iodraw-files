@@ -2344,6 +2344,9 @@
         <mxCell id="kUS0mCvqLXFZppaJVNx6-18" value="任务进度更新时间" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="600" y="3069" width="85" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="kUS0mCvqLXFZppaJVNx6-19" value="删除" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="573" y="3115" width="85" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
