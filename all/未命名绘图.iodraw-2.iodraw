@@ -2291,7 +2291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kUS0mCvqLXFZppaJVNx6-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1117" y="2673" width="884.5" height="253" as="geometry" />
+          <mxGeometry x="126" y="2683" width="884.5" height="253" as="geometry" />
         </mxCell>
         <mxCell id="kUS0mCvqLXFZppaJVNx6-1" value="任务进度" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="kUS0mCvqLXFZppaJVNx6-39">
           <mxGeometry x="395" y="108" width="100" height="38.5" as="geometry" />
