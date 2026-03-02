@@ -2291,7 +2291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kUS0mCvqLXFZppaJVNx6-1" value="任务进度" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="2793" width="100" height="40" as="geometry" />
+          <mxGeometry x="601.5" y="2798.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kUS0mCvqLXFZppaJVNx6-2" value="任务进度ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="210" y="2692" width="85" height="37" as="geometry" />
