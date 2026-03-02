@@ -2480,8 +2480,13 @@
               <mxPoint x="1024" y="2817" />
               <mxPoint x="1021" y="2675" />
               <mxPoint x="748" y="2670" />
-              <mxPoint x="743" y="2563" />
+              <mxPoint x="748" y="2563" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUS0mCvqLXFZppaJVNx6-44" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUS0mCvqLXFZppaJVNx6-43">
+          <mxGeometry x="-0.2188" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
