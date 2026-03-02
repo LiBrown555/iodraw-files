@@ -836,7 +836,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-217" value="属性名称" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-233" vertex="1">
           <mxGeometry y="200" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-218" value="数据类型" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-233" vertex="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-218" value="数据类型" style="whiteSpace=wrap;html=1;shape=doubleEllipse;perimeter=ellipsePerimeter;margin=3;" parent="gkJRY3tL-PLO7SLwbfga-233" vertex="1">
           <mxGeometry x="101" y="200" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-219" value="约束条件(0)" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-233" vertex="1">
