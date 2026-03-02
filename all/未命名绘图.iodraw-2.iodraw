@@ -2330,7 +2330,7 @@
           <mxGeometry x="515" y="2908" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="kUS0mCvqLXFZppaJVNx6-14" value="失败原因" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="381" y="2981" width="85" height="37" as="geometry" />
+          <mxGeometry x="721" y="2908" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="kUS0mCvqLXFZppaJVNx6-15" value="任务唯一标识" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="618" y="2908" width="85" height="37" as="geometry" />
