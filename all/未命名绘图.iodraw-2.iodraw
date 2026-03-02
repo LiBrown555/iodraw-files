@@ -538,9 +538,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="276" y="1206" as="sourcePoint" />
             <mxPoint x="280" y="934" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="949" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-211" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gkJRY3tL-PLO7SLwbfga-210" vertex="1" connectable="0">
