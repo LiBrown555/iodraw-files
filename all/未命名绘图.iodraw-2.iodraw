@@ -1375,7 +1375,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-352" value="所属" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="735" y="1888" width="120" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-353" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-353" value="" style="group;fontStyle=4" parent="1" vertex="1" connectable="0">
           <mxGeometry x="881" y="1814" width="394" height="197" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-336" value="点位类型" style="whiteSpace=wrap;html=1;align=center;" parent="gkJRY3tL-PLO7SLwbfga-353" vertex="1">
