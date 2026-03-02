@@ -384,7 +384,7 @@
         <mxCell id="gkJRY3tL-PLO7SLwbfga-103" value="检测项数据类型" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-115" vertex="1">
           <mxGeometry x="7.5" width="85" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="gkJRY3tL-PLO7SLwbfga-104" value="检测项单位" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-115" vertex="1">
+        <mxCell id="gkJRY3tL-PLO7SLwbfga-104" value="检测项单位" style="whiteSpace=wrap;html=1;shape=doubleEllipse;perimeter=ellipsePerimeter;margin=3;" parent="gkJRY3tL-PLO7SLwbfga-115" vertex="1">
           <mxGeometry x="139" y="218" width="85" height="37" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-106" value="所属算法" style="ellipse;whiteSpace=wrap;html=1;" parent="gkJRY3tL-PLO7SLwbfga-115" vertex="1">
