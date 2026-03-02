@@ -2302,6 +2302,9 @@
         <mxCell id="kUS0mCvqLXFZppaJVNx6-4" value="关联任务ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="443" y="2704" width="85" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="kUS0mCvqLXFZppaJVNx6-5" value="机器人ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="584" y="2717" width="85" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
