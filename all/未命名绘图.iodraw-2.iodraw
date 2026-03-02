@@ -2505,7 +2505,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kUS0mCvqLXFZppaJVNx6-91" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="113" y="1539" width="1085" height="192" as="geometry" />
+          <mxGeometry x="109" y="1435" width="1085" height="192" as="geometry" />
         </mxCell>
         <mxCell id="gkJRY3tL-PLO7SLwbfga-254" value="具备" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="kUS0mCvqLXFZppaJVNx6-91" vertex="1">
           <mxGeometry y="66" width="120" height="60" as="geometry" />
